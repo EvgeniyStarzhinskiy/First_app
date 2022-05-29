@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">First_app</string>
+    <string name="path_images">Картинки взяты с www.movieposters.com</string>
+    <string name="btn_1">Меню</string>
+    <string name="btn_2">Избранное</string>
+    <string name="btn_3">Посмотреть позже</string>
+    <string name="btn_4">Подборки</string>
+    <string name="btn_5">Настройки</string>
 </resources>
